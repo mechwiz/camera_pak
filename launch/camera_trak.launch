@@ -1,0 +1,7 @@
+<launch>
+
+<node pkg="camera_pak" type="camera_pak_node.py" name="camera_pak_node" output="screen"/>
+
+<!--<node pkg="camera_pak" type="servotrack_node.py" name="servotrack_node" output="screen"/>-->
+
+</launch>
